@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-# Sitemap: https://shriambikajewellery.netlify.app/sitemap.xml
+# Sitemap: https://shreeambikajewellery.netlify.app/sitemap.xml
