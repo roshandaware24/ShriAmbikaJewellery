@@ -2120,3 +2120,14 @@ select:focus-visible {
     left: 10px;
     top: 10px;
 }
+.logo-img {
+  height: 70px;
+  width: auto;
+}
+
+.footer-logo-img {
+  height: 60px;
+  width: auto;
+  display: block;
+  margin-bottom: 10px;
+}
